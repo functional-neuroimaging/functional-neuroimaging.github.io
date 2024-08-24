@@ -135,14 +135,14 @@ keywords: "functional, neuroimaging, IIT, fMRI"
 page-col: "#FFFFFF"
 text-col: "#325000"
 link-col: "#FAD205"
-hover-col: "#8c8c00"
-navbar-col: "#c8f0b9"
+hover-col: "#8C8C00"
+navbar-col: "#C8F0B9"
 navbar-text-col: "#325032"
 navbar-border-col: "#DDDDDD"
-footer-col: "#c8f0b9"
+footer-col: "#C8F0B9"
 footer-text-col: "#325032"
 footer-link-col: "#FAD205"
-footer-hover-col: "#8c8c00"
+footer-hover-col: "#8C8C00"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
