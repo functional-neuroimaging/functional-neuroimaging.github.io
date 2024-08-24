@@ -20,7 +20,7 @@ author: PI: Alessandro Gozzi
 ###############################################
 
 navbar-links:
-  About Me: "about us"
+  About Us: "about us"
   Publications: "publications"
   Sections:
   - Projects: "projects"
